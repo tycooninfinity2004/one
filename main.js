@@ -62,7 +62,7 @@ function checkLogin() {
   
   if (loginEmail === savedEmail && loginPassword === savedPassword) {
   
-  window.location.href="https://google.com";
+  window.location.href="https://tinyurl.com/owttwo";
     
   
    document.getElementById("correct"). innerHTML="Login Successful ✔️";
@@ -82,7 +82,7 @@ function  overlay() {
 document.getElementById('wait').innerHTML = 'Oops! no network, please subscribe to internet data!';
 
 
-    window.location.href="main.html";
+    window.location.href="https://tinyurl.com/eerhtthree";
 }
 
 
@@ -97,7 +97,7 @@ layer.style.display="none";
 
 
 function clickhere() {
-    window.location.href="freemode.html";
+    window.location.href="https://tinyurl.com/ruoffour";
 }
 
 
